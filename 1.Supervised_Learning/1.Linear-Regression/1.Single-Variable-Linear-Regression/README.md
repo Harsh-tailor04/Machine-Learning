@@ -62,3 +62,5 @@ For the given model, this calculation yields:
 
 ## Results
 ![image](https://github.com/user-attachments/assets/46e45bca-c21b-42f7-b0c8-0e0006cd9359)
+
+![image](https://github.com/user-attachments/assets/488a690d-cdec-4af9-b091-3bbe4cc15ba6)
